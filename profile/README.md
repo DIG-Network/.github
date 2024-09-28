@@ -27,6 +27,13 @@ The DIG Network is powered by the generous support of our sponsors. Every contri
         <sub><b>00-linglin</b></sub>
       </a>
     </td>
+      <td align="center">
+      <a href="https://github.com/sc0-0001">
+        <img src="https://avatars.githubusercontent.com/sc0-0001" width="100" alt="00-linglin's GitHub Profile Picture"/>
+        <br/>
+        <sub><b>00-linglin</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
