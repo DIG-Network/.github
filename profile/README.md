@@ -27,11 +27,25 @@ The DIG Network is powered by the generous support of our sponsors. Every contri
         <sub><b>00-linglin</b></sub>
       </a>
     </td>
-      <td align="center">
+    <td align="center">
       <a href="https://github.com/sc0-0001">
         <img src="https://avatars.githubusercontent.com/sc0-0001" width="100" alt="sc0-0001's GitHub Profile Picture"/>
         <br/>
         <sub><b>sc0-0001</b></sub>
+      </a>
+    </td>
+       <td align="center">
+      <a href="https://github.com/steppsr">
+        <img src="https://avatars.githubusercontent.com/steppsr" width="100" alt="steppsr's GitHub Profile Picture"/>
+        <br/>
+        <sub><b>steppsr</b></sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/thesemaphoreslim">
+        <img src="https://avatars.githubusercontent.com/thesemaphoreslim" width="100" alt="thesemaphoreslim's GitHub Profile Picture"/>
+        <br/>
+        <sub><b>thesemaphoreslim</b></sub>
       </a>
     </td>
   </tr>
