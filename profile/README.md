@@ -48,6 +48,13 @@ The DIG Network is powered by the generous support of our sponsors. Every contri
         <sub><b>thesemaphoreslim</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/tgorm-xch">
+        <img src="https://avatars.githubusercontent.com/tgorm-xch" width="100" alt="tgorm-xch's GitHub Profile Picture"/>
+        <br/>
+        <sub><b>tgorm-xch</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
