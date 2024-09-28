@@ -56,6 +56,15 @@ The DIG Network is powered by the generous support of our sponsors. Every contri
       </a>
     </td>
   </tr>
+<tr>
+  <td align="center">
+      <a href="https://github.com/dkackman">
+        <img src="https://avatars.githubusercontent.com/dkackman" width="100" alt="dkackman's GitHub Profile Picture"/>
+        <br/>
+        <sub><b>dkackman</b></sub>
+      </a>
+    </td>
+</tr>
 </table>
 
 Thank you for your incredible support! 🙌
