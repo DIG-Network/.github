@@ -64,6 +64,27 @@ The DIG Network is powered by the generous support of our sponsors. Every contri
         <sub><b>dkackman</b></sub>
       </a>
     </td>
+  <td align="center">
+      <a href="https://github.com/fizpawiz">
+        <img src="https://avatars.githubusercontent.com/fizpawiz" width="100" alt="fizpawiz's GitHub Profile Picture"/>
+        <br/>
+        <sub><b>fizpawiz</b></sub>
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/CassFairiesClub">
+        <img src="https://avatars.githubusercontent.com/CassFairiesClub" width="100" alt="CassFairiesClub's GitHub Profile Picture"/>
+        <br/>
+        <sub><b>CassFairiesClub</b></sub>
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/rkroelin">
+        <img src="https://avatars.githubusercontent.com/rkroelin" width="100" alt="rkroelin's GitHub Profile Picture"/>
+        <br/>
+        <sub><b>rkroelin</b></sub>
+      </a>
+    </td>
 </tr>
 </table>
 
