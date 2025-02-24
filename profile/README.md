@@ -1,3 +1,5 @@
+https://dig.net
+
 The DIG Network offers a robust solution for ensuring data integrity and censorship resistance by leveraging decentralized technology. When you add your data to DIG, it is encoded and served from a Merkle tree, with the Merkle root securely stored on the blockchain by the data owner. This structure guarantees that the data can be verified by anyone, ensuring that what they consume is exactly what was intended, free from manipulation or tampering.
 
 This capability is particularly valuable for decentralized applications (dApps). With DIG, a dApp developer can have their application backed up and served globally by a network of peers. The decentralized nature of the DIG Network means that even if a dApp is served by a random peer, users can trust that it remains unaltered.
